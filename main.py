@@ -1,5 +1,5 @@
 
-
+#rock, paper, scissors
 #input user
 #generate answer
 #set logic of game - for winning , lossing and tie with if and elif
